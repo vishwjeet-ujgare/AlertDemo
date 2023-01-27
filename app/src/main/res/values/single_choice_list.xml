@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="single_choice_dialog_name">Single Choice List-Dialog</string>
+<string-array name="pick_a_single_color">
+    <item>Red</item>
+    <item>Green</item>
+    <item>Blue</item>
+    <item>Yellow</item>
+    <item>Pink</item>
+</string-array>
+
+
+    <string name="multi_choice_dialog_name">Pick Your Toppings</string>
+    <string-array name="pick_a_multi_toppings">
+        <item>Onion</item>
+        <item>Lettuce</item>
+        <item>Tommato</item>
+    </string-array>
+</resources>

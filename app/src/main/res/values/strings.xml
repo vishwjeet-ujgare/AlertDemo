@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlertDemo</string>
+    <string name="dialog_start_game">Start a Game ?</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="custmise_dialog_header">Android Customise Dialog</string>
+    <string name="signin">Sign In</string>
+</resources>
